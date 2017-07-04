@@ -3,7 +3,7 @@ Sales Website for fictional Photo App 'Gamma'. Built with Bootstrap. Media Queri
 
 <p align="center">
   <br><br>
-  <img src="https://github.com/Jyotsna-Singh/Jyotsna-Singh/blob/master/assets/img/bs.jpg" width="300" height="auto" />
+  <img src="https://github.com/Jyotsna-Singh/Bootstrap-PhotoAppSalesWebsite/blob/master/img/BS.jpg" width="100%" />
 </p>
 
 ## Clone
